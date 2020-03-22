@@ -54,7 +54,7 @@ def main():
         # 'https://www.googleapis.com/auth/spreadsheets', # disabled
         'https://www.googleapis.com/auth/drive',
     ]
-    doc_id = '17coS88dCReNY_psETrhNCvz39tFlsc7DUrkxFXwC7HA'
+    doc_id = '1BgpkXOAgsnVgbAir8AK-KyEWHxM_mV51WgJSLOLASgo'
 
     gdrive_api = auth_in_google_drive(google_scope, os.getenv('GAPI_CREDENTIALS'))
 
@@ -65,3 +65,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
