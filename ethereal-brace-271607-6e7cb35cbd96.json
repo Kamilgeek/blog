@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ethereal-brace-271607",
+  "private_key_id": "6e7cb35cbd968afbf5c6afca751454b901e2e986",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDnPh4ZBt+46rLu\nc6zQFekrkO6IrH0OSyYLEMny2ubXstVQkCeCuklkqJm2MVNwALpMgFpx2hpuqvVm\nUvjQJX3XyQ9ViQjw9PNHNWA7Uw58yuCt+4Sk7V0bLKaVY0rsvbxCINWaKmz6ehNo\nT9NebYn5oEIkkqtJN/Mtlk9PFz6lw7Ki1irdxocOIUZKAPA/a1IskUMyGbmq5PLS\nObWQeUsqn8xUT+cGomJQOa1ZsEuIbl0vVshYPApwSutcTuwBMTNn4+Z7HCYKNiLm\n+GE2OTnzMFYbfDfiqJ854tssnIP9e12vnhPUWSLWh9s/eiejoicdBweKTHa7dkkD\nDyJj/f1TAgMBAAECggEAEravNDKfNlV1XODAR9K4x6LMpa4310lI7zT7nYtjimnZ\njicsW2L8qjMOxXTLyND2QqynJSGTvrMCdbZvQQECZHfL+uMXyyWM7o1TmAQftFpY\nFnG4CVTVkmu+9htOppwFjoseXiyNcd52kEbYLIMhhbHCHeLqDlyDHIRWhL21Kdrm\nHfK3Q+JfIqYc5kBwZvTuyjOYhvNgDnC+suDKA68TZpR6NbhAO4vBzmWIoc2KOoUJ\nLo7ufuYdJMrnozZA3MDmYG25t/Nd+hs+mFqLDzpKd+N3FFkwXPsgaBFC9CbjAOs7\nJuN2XRhC8UsEUUZ8WI2k0WEfStC3/+kXBriRdw3KcQKBgQD3wD6UjM+dIjrXwxDg\nYHPawfgtDOlsHRugmGJHfYHphI464pMXvx0bovqz26TSnZNmaM4qiHn6nh9tRHzK\nDPHDBWtxVbrh0wnDm+8cZhcKRPWsw145B51QLHEvFyVoYVSkSmASg7zZwNfMBwdi\nUqFunxwa49fn1rnFeBUzwwceuQKBgQDu8SlEbIb6aYfxn3EZstlkLtbNhehJN/Vi\nNHXN2R7H0Up4gxuo2fOd8FKicrGDscoJP/CFEvd19i0EMYFDY0K/RY2C+4brXM/j\nW+hMLU6Xg3dqv7yWaRc+naNW5vVObhNhlt1gIrWLUINNGko+Vvj2tXYlh5Q7Mp8O\nmPIKEEJWawKBgC+1KVfZtbEAgmxB9+H9MNITQAMM1XYoNMW8ElDJ7lZVXD4im0ib\nWLOVssknppmYFmZGEE1IcpS8FjkoUw9lZrizNnlglNgfl2W/hU/mqNElblmSVXaN\n7NEffbwfrOhota/dUpq+G4OjCusS/20DlGqE4Ricf1r5klRgR1TsXVahAoGBAIxg\n5NTNSfO+ol6jRMhLWgrQteQjQtgZZzHeDkP0xm+wlyb8J/joq4bj1TiZV48+masb\nhIw6G2aTTdlD2GSl4WYMT9pfOeH3Mi+qJGz0xVKgqzztDrfzX/Oqm3cH06DTbNGN\n19uOKMiDcdCPnITJhhUzgQkFgWHSGL5zvueIq+CnAoGBAPCtbWCsrShicaZ1nTVS\nbo1BTZT8RL0s0In/j3XZME1NVW8M61g5fcFTBWjgS0gEF1ITAoadiP0ixAOT2jVb\nawj+3PaHmSc2uQ7qyFJSQobTSOs+ZHHNZKsM742L48RRKVRZ1LJfqYEs0KvvpRx5\nUkegYScdcfW/TRBJKiEwmlUk\n-----END PRIVATE KEY-----\n",
+  "client_email": "django-blog@ethereal-brace-271607.iam.gserviceaccount.com",
+  "client_id": "114571567782318263920",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/django-blog%40ethereal-brace-271607.iam.gserviceaccount.com"
+}
