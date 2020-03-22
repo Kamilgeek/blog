@@ -62,25 +62,7 @@ def main():
     print(title)
     print(article_html)
 
-def main_demo():
-    google_scope = [
-        # 'https://www.googleapis.com/auth/spreadsheets', # disabled
-        'https://www.googleapis.com/auth/drive',
-    ]
-    doc_id = '1BgpkXOAgsnVgbAir8AK-KyEWHxM_mV51WgJSLOLASgo'
-
-    gdrive_api = auth_in_google_drive(google_scope, os.getenv('GAPI_CREDENTIALS'))
-
-    article_doc = gdrive_api.CreateFile({'id': doc_id})
-    article_doc.FetchMetadata(fetch_all=True)
-    html = article_doc.GetContentString(mimetype='text/html')
-    soup = BeautifulSoup(html, "html.parser")
-    pretty_html = soup.prettify()
-
-    with open('test.html', 'w') as file:
-        file.write(pretty_html)
-
 
 if __name__ == '__main__':
-    # main()
-    main_demo()
+    main()
+
